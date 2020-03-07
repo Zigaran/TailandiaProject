@@ -14,4 +14,4 @@ Se logro conocer:
 El proyecto consistio, en realizar SPA (single-page application), orientado a la muestra de informacion
 acerca del recorrido turistico que puede realizar en Tailandia.
 
-Puedes ver el proyecto [aquí](https://zigaran.github.io/TailandiaProyect/), cualquier critica me servirá.
+Puedes ver el proyecto [aquí](https://zigaran.github.io/TailandiaProject/), cualquier critica me servirá.
