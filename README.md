@@ -3,7 +3,7 @@
 ###### Lenguaje: HTML & CSS
 
 Este proyecto se llevo a cabo con el fin de conocer los puntos criticos
-orientados a un buen diseño responsive de una aplicacion web.
+orientados a un buen diseño responsive de un sitio web.
 
 Se logro conocer: 
 - Resoluciones estándares de dispositivos: PC, Tablet, Telefonos Moviles, Mini-telefonos.
